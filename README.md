@@ -25,7 +25,7 @@ The Variables city and price alone can explain the 20% of the variance, making t
 
 The MAE (Median Absolute error) is close to 1.7 thousand dollars with is small in comparison with the mean of target.
 
-As expected the big cities like Des Moines are at the top but the best opportunities are on the upcoming markets like Ankeny witch population has duplicated very recently. You can see the code for further details [Jupyter nodebook code]( 	Iowa_liquor_store_problem.ipynb) or [spider script code](Iowa_liquor_store_problem.py)
+As expected the big cities like Des Moines are at the top but the best opportunities are on the upcoming markets like Ankeny witch population has duplicated very recently. You can see the code for further details, [Jupyter nodebook code]( 	Iowa_liquor_store_problem.ipynb) or [spider script code](Iowa_liquor_store_problem.py)
 
 # License
 
