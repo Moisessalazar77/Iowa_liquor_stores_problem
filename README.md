@@ -1,4 +1,4 @@
-# The Iowa liquor dataset.
+# The Iowa liquor Stores dataset.
 
 # Introduction
 
