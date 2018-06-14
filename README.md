@@ -27,11 +27,6 @@ The MAE (Median Absolute error) is close to 1.7 thousand dollars with is small i
 
 As expected the big cities like Des Moines are at the top but the best opportunities are on the upcoming markets like Ankeny witch population has duplicated very recently. You can see the code for further details [Jupyter nodebook code]( 	Iowa_liquor_store_problem.ipynb) or [spider script code](Iowa_liquor_store_problem.py)
 
- 
-# Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository..
-
 # License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
