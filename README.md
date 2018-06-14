@@ -19,3 +19,10 @@ This statistical model has a proven record in making prediction on sales hence t
 
 The fitness of the model is evaluated using the R square metric which is a measure of how much of the variance in the target(sales) can be explained by the model. In other words, if the sample change, the random variations will affect the predictions but, if the model is well fitted those random variations will be miniscule and the model still will be able to make acceptable predictions. Of course, all models are wrong, but some are useful!  
  
+# Versioning
+
+We use SemVer for versioning. For the versions available, see the tags on this repository..
+
+# License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
